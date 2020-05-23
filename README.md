@@ -1,6 +1,6 @@
 # star-selection
-______
 Goal: Select images from star server based on our needs
+______
 
 ## Run:
 $ python3 get-stars.py
